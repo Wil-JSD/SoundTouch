@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3"
+  },
+  "imageUrl": "https://cdn-radiotime-logos.tunein.com/s25777g.png",
+  "name": "Sublime",
+  "streamType": "liveRadio"
+}

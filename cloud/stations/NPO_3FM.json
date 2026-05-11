@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://icecast.omroep.nl/3fm-bb-mp3"
+  },
+  "imageUrl": "https://cdn-radiotime-logos.tunein.com/s6707g.png",
+  "name": "NPO 3FM",
+  "streamType": "liveRadio"
+}

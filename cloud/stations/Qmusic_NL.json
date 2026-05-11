@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3"
+  },
+  "imageUrl": "https://cdn-radiotime-logos.tunein.com/s87683g.png",
+  "name": "Qmusic NL",
+  "streamType": "liveRadio"
+}
