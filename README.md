@@ -1,8 +1,8 @@
 # SoundTouch
 SoundTouch deleverables
 
-The Release directory contains the windows exe file and the flutter_windows.dll file. Best is to 
-use the installer to add the app. Unfortunately, the app can only be run as administrator at the moment.
+The Release directory contains the windows exe file and the flutter_windows.dll file. However, best is to 
+use the installer (SoundTouchV01-x86_64-1.0.0-Installer) to add the app. The app run with admin rights.
 Android app could not be stored (50 Mb) but could be asked for via jsd@kpnmail.nl and wetransfer
 
 The cloud directory contains the server directory structure, the server script json_server.py 
