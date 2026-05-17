@@ -1,7 +1,7 @@
 # SoundTouch
 SoundTouch deleverables
 
-With the installer (SoundTouchV01-x86_64-1.0.0-Installer) the windows app can be installed. The app run with admin rights.
+With the installer (SoundTouchV01-x86_64-1.0.0-Installer) the windows app can be installed. The app runs with admin rights.
 Android app could be stored (50 Mb) as a release. Also it could be asked for via jsd@kpnmail.nl and wetransfer. 
 For questions please mail to jsd@kpnmail.nl.
 
