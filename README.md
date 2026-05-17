@@ -1,8 +1,7 @@
 # SoundTouch
 SoundTouch deleverables
 
-The Release directory contains the windows exe file and the flutter_windows.dll file. However, best is to 
-use the installer (SoundTouchV01-x86_64-1.0.0-Installer) to add the app. The app run with admin rights.
+With the installer (SoundTouchV01-x86_64-1.0.0-Installer) the windows app cab be installed. The app run with admin rights.
 Android app could not be stored (50 Mb) but could be asked for via jsd@kpnmail.nl and wetransfer
 
 The cloud directory contains the server directory structure, the server script json_server.py 
@@ -17,7 +16,8 @@ How to use the app
 3. Select a station on the station page. The station will then become audible.
 4. The station can now be added to the presets. This can be done via the Soundtouch itself, via the remote control, or by  returning to the first screen and long-pressing a preset.
 5. Six presets can be filled.
-6. The Soundtouch can be operated via the app. The app can also be closed, and the Soundtouch can be used via the buttons and/or the remote control.
+6. Add, update or delete stations on the settings screen
+7. The Soundtouch can be operated via the app. The app can also be closed, and the Soundtouch can be used via the buttons and/or the remote control.
 
 More documentation will follow, but I have limited time. User manual has been made.
 
