@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://stream.joyradio.nl/joyradio-gron"
+  },
+  "imageUrl": "https://cdn-radiotime-logos.tunein.com/s9426g.png",
+  "name": "Joy Radio",
+  "streamType": "liveRadio"
+}

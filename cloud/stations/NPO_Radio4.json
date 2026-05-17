@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://icecast.omroep.nl/radio4-bb-mp3"
+  },
+  "imageUrl": "https://cdn-radiotime-logos.tunein.com/s25548g.png",
+  "name": "NPO Radio 4",
+  "streamType": "liveRadio"
+}
