@@ -1,8 +1,11 @@
 # SoundTouch
 SoundTouch deleverables
 
+The release contains the windows app installer, the android app (apk file) and the user manual.
+The cloud directory, license ino and the readme file are in the repository.
+
 With the installer (SoundTouchV01-x86_64-1.0.0-Installer) the windows app can be installed. The app runs with admin rights.
-Android app could be stored (50 Mb) as a release. Also it could be asked for via jsd@kpnmail.nl and wetransfer. 
+Android app was stored (50 Mb) as a release. Also it could be asked for via jsd@kpnmail.nl and wetransfer. 
 For questions please mail to jsd@kpnmail.nl.
 
 The cloud directory contains the server directory structure, the server script json_server.py 
