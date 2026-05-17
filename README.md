@@ -2,7 +2,8 @@
 SoundTouch deleverables
 
 With the installer (SoundTouchV01-x86_64-1.0.0-Installer) the windows app cab be installed. The app run with admin rights.
-Android app could not be stored (50 Mb) but could be asked for via jsd@kpnmail.nl and wetransfer
+Android app could be stored (50 Mb) as a release. Also it could be asked for via jsd@kpnmail.nl and wetransfer. 
+For questions please mail to jsd@kpnmail.nl.
 
 The cloud directory contains the server directory structure, the server script json_server.py 
 and a stations directory containing the <station>.json files and png files (not used yest but could be uses)
