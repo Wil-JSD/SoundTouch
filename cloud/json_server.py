@@ -27,13 +27,31 @@ import requests
 import json
 import glob
 import os
+import socket
 from pathlib import Path
 
 app = Flask(__name__)
 
+
+
+#get the IP address
+def get_host_ip():
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    try:
+        # Dit hoeft geen actieve verbinding te maken
+        s.connect(('8.8.8.8', 80))
+        ip = s.getsockname()[0]
+    except Exception:
+        ip = '127.0.0.1'
+    finally:
+        s.close()
+    return ip
+
+
 # HOST = "192.168.2.24"
 # HOST = "localhost"
-HOST = "raspberry-pi"
+#HOST = "raspberry-pi"
+HOST = get_host_ip()
 PORT = 8081
 
 # ---- Load JSON stations ----
@@ -86,7 +104,7 @@ def opml():
 # ---- Serve station JSON ----
 @app.route("/stations/<name>.json", methods=['GET'])
 def get_station_json(name):
-    return send_from_directory("stations", f"{name}.json")
+    return send_from_directory("stations", f"{name}.json",mimetype='application/json')
 
 # ---- Write station JSON ----
 @app.route("/stations/<name>.json", methods=['POST'])
