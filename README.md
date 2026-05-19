@@ -1,8 +1,9 @@
 # SoundTouch
 SoundTouch deleverables
 
-The release contains the windows app installer, the android app (apk file) and the user manual.
-The cloud directory, license ino and the readme file are in the repository.
+The release contains the windows app installer, the android app (apk file), server (zip file) and the user manual.
+The zip file contains the cloud directory, server file (Python), station directory and data files <station>.json.
+The same cloud directory is also in the repository. License info and the readme file are in the repository too.
 
 With the installer (SoundTouchV01-x86_64-1.0.0-Installer) the windows app can be installed. The app runs with admin rights.
 Android app was stored (50 Mb) as a release. Also it could be asked for via jsd@kpnmail.nl and wetransfer. 
@@ -24,5 +25,7 @@ How to use the app
 7. The Soundtouch can be operated via the app. The app can also be closed, and the Soundtouch can be used via the buttons and/or the remote control.
 
 More documentation will follow, but I have limited time. User manual has been made.
+
+Via the release is the easiest way to get the software.
 
 Fore more info/questions/remarks please send a mail to jsd@kpnmail.nl
